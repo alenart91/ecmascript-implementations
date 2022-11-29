@@ -1,5 +1,5 @@
 # ecmascript-implementations
-A repository for implementing the ecmascript specs in JavaScript code
+A repository for implementing the ECMAScript specs in JavaScript code.
 
 The ECMAScript specifications can be confusing and ambiguous. This Repo aims to implement the code in the documentation as close as possible with vanilla JavaScript. Hopefully it can also serve as a good source for interpreting the often times overwhelming documentation.
 
